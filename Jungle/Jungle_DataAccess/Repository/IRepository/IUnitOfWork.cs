@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Jungle_DataAccess.Repository.IRepository
 {
-    internal interface IUnitOfWork
+    internal interface IUnitOfWork: IDisposable
     {
+        void Save();
     }
 }
