@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jungle", "Jungle\Jungle.csproj", "{BAF8E0D5-CBD0-46AB-AF8D-A7A37B8D9A0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jungle", "Jungle\Jungle.csproj", "{BAF8E0D5-CBD0-46AB-AF8D-A7A37B8D9A0C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jungle_DataAccess", "Jungle_DataAccess\Jungle_DataAccess.csproj", "{2068547C-6647-4431-9485-5D12D0895974}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jungle_Models", "Jungle_Models\Jungle_Models.csproj", "{A8C359CB-B1CB-4F5A-B429-2EA1E8495131}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{BAF8E0D5-CBD0-46AB-AF8D-A7A37B8D9A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAF8E0D5-CBD0-46AB-AF8D-A7A37B8D9A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAF8E0D5-CBD0-46AB-AF8D-A7A37B8D9A0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2068547C-6647-4431-9485-5D12D0895974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2068547C-6647-4431-9485-5D12D0895974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2068547C-6647-4431-9485-5D12D0895974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2068547C-6647-4431-9485-5D12D0895974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8C359CB-B1CB-4F5A-B429-2EA1E8495131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8C359CB-B1CB-4F5A-B429-2EA1E8495131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8C359CB-B1CB-4F5A-B429-2EA1E8495131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8C359CB-B1CB-4F5A-B429-2EA1E8495131}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
