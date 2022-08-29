@@ -32,6 +32,8 @@
     <Folder Include="Areas\Guide\Data\" />
     <Folder Include="Areas\Guide\Models\" />
     <Folder Include="Areas\Guide\Views\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="Views\Home\" />
   </ItemGroup>
 
 </Project>
