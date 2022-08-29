@@ -18,7 +18,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\" />
     <Folder Include="Areas\Administrator\Controllers\" />
     <Folder Include="Areas\Administrator\Data\" />
     <Folder Include="Areas\Administrator\Models\" />
@@ -27,10 +26,8 @@
     <Folder Include="Areas\Advisor\Data\" />
     <Folder Include="Areas\Advisor\Models\" />
     <Folder Include="Areas\Advisor\Views\" />
-    <Folder Include="Areas\Customer\Controllers\" />
     <Folder Include="Areas\Customer\Data\" />
     <Folder Include="Areas\Customer\Models\" />
-    <Folder Include="Areas\Customer\Views\" />
     <Folder Include="Areas\Guide\Controllers\" />
     <Folder Include="Areas\Guide\Data\" />
     <Folder Include="Areas\Guide\Models\" />
